@@ -1,11 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I%27m%20%20Vimal.&fontSize=60"></img>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I%27m%20%20Vimal%20William.&fontSize=60"></img>
 
 
-I've my area of interest in the areas of Embedded AI and SW/HW accelerated algorithms for computer vision. I'm currently work in Neural Network Compression and Optimization methods, constructing Hardware-aware Inference Engine and Runtime for Neural Networks
+<p>I've my area of interest in the areas of Embedded AI and SW/HW accelerated algorithms for computer vision. I'm currently work in Neural Network Compression and Optimization methods, constructing Hardware-aware Inference Engine and Runtime for Neural Networks</p>
 
 <br>
-<b>Talk to me about: Computer Vision, Neural Nets, Image Processing and GStreamer </b>
-
+Open to connect for Open-Source AI projects / research. Write to me via [E-mail](vimalwilliam99@gmail.com)<br>
 ---
 
 
