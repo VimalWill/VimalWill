@@ -1,7 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I%27m%20%20Vimal%20William.&fontSize=60"></img>
 
 
-<p>I've my area of interest in the areas of Embedded AI and SW/HW accelerated algorithms for computer vision. I'm currently work in Neural Network Compression and Optimization methods, constructing Hardware-aware Inference Engine and Runtime for Neural Networks</p>
+<p>
+I am actively involved in further optimizing neural networks and related algorithms, aiming to maximize their efficiency and performance. My work focuses on developing cutting-edge techniques to make neural networks more hardware-efficient and suitable for embedded AI applications.
+</p>
 
 - Open to connect for Open-Source AI projects. feel free to write me via [E-mail](mailto:vimalwilliam99@gmail.com)
 - Checkout my [Resume](https://drive.google.com/file/d/1dg6EmDZWFENOv_dxGicrRb_jNsvyf-ZE/view?usp=sharing) for better idea. 
