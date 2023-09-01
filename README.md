@@ -3,8 +3,12 @@
 
 <p>I've my area of interest in the areas of Embedded AI and SW/HW accelerated algorithms for computer vision. I'm currently work in Neural Network Compression and Optimization methods, constructing Hardware-aware Inference Engine and Runtime for Neural Networks</p>
 
+- Open to connect for Open-Source AI projects. feel free to write me via [E-mail](mailto:vimalwilliam99@gmail.com)
+- Checkout my [Resume](https://drive.google.com/file/d/1dg6EmDZWFENOv_dxGicrRb_jNsvyf-ZE/view?usp=sharing) for better idea. 
+
+[LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) | [Blog](https://vimalwill.github.io/)
+
 <br>
-Open to connect for Open-Source AI projects / research. Write to me via [example@email.com](mailto:example@email.com).
 
 
 ![](https://github-readme-stats.vercel.app/api?username=VimalWill&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
