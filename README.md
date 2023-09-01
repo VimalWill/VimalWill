@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm&Vimal William&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm&Vimal&William&fontSize=90)
 
 I've my area of interest in the areas of Embedded AI and SW/HW accelerated algorithms for computer vision. I'm currently work in Neural Network Compression and Optimization methods, constructing Hardware-aware Inference Engine and Runtime for Neural Networks
 
