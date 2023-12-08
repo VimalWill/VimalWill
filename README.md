@@ -8,7 +8,7 @@ I am actively involved in further optimizing neural networks and related algorit
 - Talks on Edge AI, Heterogeneous Computing. feel free to write to me via [E-mail](mailto:vimalwilliam99@gmail.com)
 - Checkout my [Resume](https://drive.google.com/file/d/1nEJmlZv-e3wvA52PkF2nIKrnIDWqjU-j/view?usp=sharing) for better idea. 
 
-[LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) | [Blog](https://vimalwill.github.io/)
+[LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) 
 
 <br>
 
