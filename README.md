@@ -6,7 +6,7 @@ I'm Currently focuses:
   - NN Optimization and Compression
   - AI Compilers for Accelerators
 
-I'm also open for freelance(AI4Edge)<br>
+connect for freelance<br>
 [LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
