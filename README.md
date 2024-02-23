@@ -6,7 +6,7 @@ I'm Currently focuses:
   - NN Optimization and Compression
   - AI Compilers for Accelerators
 
-connect for freelance<br>
+connect@<br>
 [LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
