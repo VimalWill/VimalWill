@@ -3,7 +3,7 @@
 
 I'm Currently focusing on:
   - Ultra - Low Powered AI Inference
-  - [NN Optimization and Compression] (https://github.com/sandlogic/nn-optimiser)
+  - NN Optimization and Compression [SL-Optimizer](https://github.com/sandlogic/nn-optimiser)
   - AI Compilers for Accelerators
 
 connect@<br>
