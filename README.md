@@ -4,7 +4,7 @@
 I'm Currently focusing on:
   - Ultra - Low Powered AI Inference
   - NN Optimization and Compression [SL-Optimizer](https://github.com/sandlogic/nn-optimiser)
-  - AI Compilers for Accelerators
+  - AI Compilers for Accelerators [TinyCompiler](https://github.com/VimalWill/TinyCompiler.git)
 
 connect@<br>
 [LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) 
