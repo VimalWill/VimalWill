@@ -8,5 +8,6 @@ I'm Currently focusing on:
 
 connect@<br>
 [LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) 
+![](https://komarev.com/ghpvc/?username=VimalWill)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
