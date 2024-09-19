@@ -1,15 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi!%20I%27m%20%20Vimal%20William.&fontSize=60"></img>
-<br>
-![](https://komarev.com/ghpvc/?username=VimalWill)
+## Hey there 👋
+
+I'm Vimal William, a `System Software Engineer` in the morning ☀️ and an `AI Systems Researcher` at night 🌙
+
+#### I'm currently working on:
+1. `Neural Network Compression Techniques`![SL-NNCF]("https://github.com/sandlogic/nn-optimiser")
+2. `AI Compilers`
+3. `Hardware Accelerators`
 
 
-
-I'm Currently focusing on:
-  - Ultra - Low Powered AI Inference
-  - NN Optimization and Compression [SL-Optimizer](https://github.com/sandlogic/nn-optimiser)
-  - AI Compilers for Accelerators [TinyCompiler](https://github.com/VimalWill/TinyCompiler.git)
-
-connect@<br>
-[LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
