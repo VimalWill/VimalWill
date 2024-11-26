@@ -8,11 +8,4 @@ I'm Currently focusing on:
   - AI Compilers for Accelerators [TinyCompiler](https://github.com/VimalWill/TinyCompiler.git)
 
 Ping @ [LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) for ``machine learning``, ``compiler optimization``, ``compArch`` & ``HPC`` talks and discussions <br>
-
-## 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent)](https://github.com/VimalWill)
-
-
-
   
