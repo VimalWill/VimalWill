@@ -3,9 +3,9 @@
 #### A System Software Engineer by day ☼ and an AI Systems Researcher by night ☾
 
 I'm Currently focusing on:
-  - Ultra - Low Power AI systems
-  - NN Optimization and Compression [Slnnop](https://github.com/sandlogic/nn-optimiser)
-  - AI Compilers for Accelerators [TinyCompiler](https://github.com/VimalWill/TinyCompiler.git)
+ - AI Optimiser & Compilers
+ - Software/Hardware Co-design
+ - Fixed-point Arithmetic
 
 Ping @ [LinkedIn](https://www.linkedin.com/in/vimal-william-6b24b0165/) for ``machine learning``, ``compiler optimization``, ``compArch`` & ``HPC`` talks and discussions <br>
   
